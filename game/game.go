@@ -81,4 +81,3 @@ func (p *Player) AddBoat(x, y, length int, vert bool) (bool, error) {
 
     return true, nil
 } 
-
