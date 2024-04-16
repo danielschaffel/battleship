@@ -2,6 +2,7 @@ package game
 
 import (
 	"errors"
+	"fmt"
 )
 
 const BOARD_W = 10
